@@ -1,3 +1,3 @@
 # logistic-regression
 
-Basic logistic regression with train-test-split functionality.
+A custom basic logistic regression algorithm with train-test-split functionality.
